@@ -2,6 +2,7 @@
 
 * email: `hello@patrickod.com`
 * mastodon: [@patrickod@infosec.exchange](https://infosec.exchange/@patrickod)
+* resume: [patrickod.pdf](https://patrickod.com/assets/patrickod.pdf)
 
 ***
 
